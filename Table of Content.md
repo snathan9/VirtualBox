@@ -37,6 +37,6 @@
 ##### Backups
 ##### Performance Tuning
 ### Miscellaneous
-##### Server vs. Desktop virtualization
+##### Server Vs. Desktop virtualization
 ##### VirtualBox value-added Tools
 ##### Prevent Guest wait on File system error prompt
