@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 # Initial setup on new machine
 #
@@ -140,4 +139,3 @@ read -p "Press [Enter] key to continue or Ctrl-C to break ..."
 echo "Done!"
 #
 exit
-```
