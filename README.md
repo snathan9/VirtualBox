@@ -1,11 +1,11 @@
 # VirtualBox at Warp Speed
-This project is to house all of the code and scipts in the Upcoming Book VirtualBox at Warp Speed.  
+This project was to house all of the code and scipts in the Book [VirtualBox at Warp Speed](http://virtualbox.guru).  
 
 ### Book Publishing
-The book is still in development.  The scripts in the book can be downloaded via this Project.
+The book is now released.  The book is available at [Amazon.com](http://amzn.to/1HDmywF)
 
 ### Script Publishing
-The scripts will be published during development.  Scripts published would have already been tested to work but there may be upcoming versions to the scripts
+The scripts in the book can be downloaded via [source.virtualbox.guru](http://source.virtualbox.guru/start#scripts_index) website.
 
 ### Contributions
-If you have suggestions/updates to scripts, you are welcome to make those updates.  You will be recognized for your efforts.  All updates made will not incur any payments or royalties. :)
+If you have suggestions/updates to scripts, send your [feedback](http://virtualbox.guru/?&mailform).
